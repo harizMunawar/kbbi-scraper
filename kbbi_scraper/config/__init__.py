@@ -1,1 +1,0 @@
-HOST = 'https://kbbi.co.id/'
