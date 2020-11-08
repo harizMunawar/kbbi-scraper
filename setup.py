@@ -4,8 +4,8 @@ from setuptools import setup
 HERE = pathlib.Path(__file__).parent
 README = (HERE / "README.md").read_text()
 setup(
-  name="KBBI Scraper",
-  version="0.0.1",
+  name="kbbi_scraper",
+  version="0.0.2",
   description="https://kbbi.co.id/ scraper",
   long_description=README,
   long_description_content_type="text/markdown",
